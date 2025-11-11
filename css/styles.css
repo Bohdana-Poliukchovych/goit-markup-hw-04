@@ -495,7 +495,7 @@ padding: 120px 0 120px 0;
     }
 
 .list-portfolio-item:hover .overlay-text {
-transform: translateY(0%),
+    transform: translateY(0%);
 }
 
 
@@ -532,7 +532,10 @@ transform: translateY(0%),
 
 
 
-
+.footer-social {
+    display: flex;
+    align-items: baseline;
+}
 
 
 .page-footer {
@@ -621,12 +624,7 @@ transform: translateY(0%),
     fill: #f4f4fd;
 }
 
-.footer-social {
-    display: flex;
-    align-items: baseline;
-    
 
-}
 
 
 
