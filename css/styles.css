@@ -534,7 +534,7 @@ padding: 120px 0 120px 0;
 
 .footer-social {
     display: flex;
-    align-items: first baseline;
+    align-items: baseline;
     
 }
 
@@ -543,8 +543,6 @@ padding: 120px 0 120px 0;
     padding: 100px 0 100px;
     background-color: #2e2f42;
 }
-
-
 
 .container-footer {
     
@@ -583,9 +581,7 @@ padding: 120px 0 120px 0;
         width: 264px;
 }
 
-.social-container {
-    margin-right: 692px;
-}
+
 
 .social-title {
         font-weight: 500;
